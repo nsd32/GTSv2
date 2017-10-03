@@ -7,7 +7,9 @@ Currently, a tournament can only be one round of 18 holes.
 
 Additional Features:
 
-Chat with the other players in your tournament
-Get current weather, wind speed and wind direction of your location
+Chat with the other players in your tournament.
+
+Get current weather, wind speed and wind direction of your location.
+
 Locate the course you’re playing via google maps.
 
