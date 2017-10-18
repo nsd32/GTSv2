@@ -5,11 +5,9 @@ Golf Tourney Scorecard allows users to create and join tournaments for a friendl
 
 Currently, a tournament can only be one round of 18 holes.
 
-Additional Features:
+## Additional Features:
 
-Chat with the other players in your tournament.
-
-Get current weather, wind speed and wind direction of your location.
-
-Locate the course you’re playing via google maps.
+* Chat with the other players in your tournament.
+* Get current weather, wind speed and wind direction of your location.
+* Locate the course you’re playing via google maps.
 
